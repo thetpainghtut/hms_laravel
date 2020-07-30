@@ -1,0 +1,16 @@
+body {
+  background-color: #353E4A;
+  color: #9ACB34;
+  border-color: #FBF8EF;
+  background: #04D0D9;
+
+
+  border-top-color: #54f396;
+  /*success*/
+  border-top-color: #50b4f7;
+  /*info*/
+  border-top-color: #ffdb3b;
+  /*warning*/
+  border-top-color: #ff5151;
+  /*danger*/
+}

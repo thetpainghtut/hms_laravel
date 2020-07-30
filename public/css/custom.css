@@ -1,0 +1,12 @@
+.logo{
+	color: #fff;
+	font-size: 18px
+}
+
+.kt-aside--minimize .kt-aside__brand .kt-aside__brand-logo  .logo{
+	display: none;
+}
+
+.dataTables_wrapper .dataTable{
+	margin-top:0px !important;
+}
